@@ -53,16 +53,19 @@ Software Developer - developing applications,programs and systems using programm
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
+   
 Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  - confirm that the software meets the requirement before deployment. 
 - analyse the product to identify bugs and suggest changes to make them more efficient. 
 - develop and execute automation scripts using open source tools.
+  
 Project Manager - assembles and lead the software development team.
  - discuss the project and it's requirement with the client and software developers.
  - create blueprint for the project.
  - tracking and communicating information regarding the project milestone.
  - deliver the complete software to the client and regularly check its performance.
+   
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 INTERGRATED DEVELOPMENT ENVIRONMENTS (IDEs)
 IMPROVED PRODUCTIVITY:IDEs provide a comprehensive development environment, streamlining tasks and reducing development time.
@@ -100,10 +103,33 @@ STRATEGIES:Use agile methodology, such as Scrum or Kanban
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-UNIT-
-INTERGRATION-
-SYSTEM -
-ACCEPTANCE-
+UNIT TESTING
+:Unit testing involves testing individual units of code, such as functions or methods to ensure they work as expected.
+Purpose
+:To verify that each unit of code behaves correctly and produces the expected output.
+Importance
+:It hepls catch bugs early in the development cycle, reducingthe overall cost of fixing defects.
+
+INTERGRATION TESTING
+Involves testing how different units of code work together to ensure they integrate seamlessly.
+Purpose
+:To verify that different components or modules work together as expected.
+Importance
+:Helps identify issues that arise when different components interact, ensuring a smoother user experience.
+
+SYSTEM TESTING
+:Involves testing the entire software sysytem, from end to end, to ensure it meets the requirements and works as expected.
+Purpose
+:To verify the entire system functions correctly and meets the user's expectations.
+Importance
+:System testing hepls ensure that the software system is stable,reliable and meets the user's needs.
+
+ACCEPTANCE
+:Involves testing the software system to ensure it meets the acceptance criteria and ready for delivery.
+Purpose
+:To verify that the software system meets the user's acceptance criteria and is ready for deployment
+Importance
+:Helps ensure that the software system is deliverd on time, within budget and meets the user's expectations.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
